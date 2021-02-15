@@ -1,7 +1,4 @@
 #!/usr/bin/env python
 import Cutils
-x = Cutils.get_output('ls')
-assert isizzzz
-
-
-print x
+y = Cutils.get_output('ls')
+print(y)
