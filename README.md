@@ -1,0 +1,2 @@
+# pycharm-python
+pycharm scripts
